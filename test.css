@@ -1,0 +1,6 @@
+html, body { margin:0; padding:0; overflow:hidden; background-color: #1A1A1A; }
+/*svg { position:fixed; top:0; left:0; height:100%; width:100% }*/
+
+path[stroke="#fab002"], path[fill="#fab002"] { stroke: lightgrey; fill: lightgrey; }
+
+    
